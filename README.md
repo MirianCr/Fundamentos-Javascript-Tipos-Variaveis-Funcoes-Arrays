@@ -1,0 +1,2 @@
+# Fundamentos-Javascript-Tipos-Variaveis-Funcoes-Arrays
+Semana 7-Boticario-Desenvolve - Prof.Juliana Amoasei e Leonardo Sartorello - Faça esse curso de JavaScript e: Aprenda uma linguagem de programação desde seus blocos básicos Entenda as particularidades do JavaScript e como trabalhamos com elas Descubra as diferentes formas de usar funções e variáveis no JS, e seus usos Saiba quais são os tipos de dados aceitos no JS e quando utilizar cada um Pratique com os conceitos básicos e adquira conhecimentos sólidos
