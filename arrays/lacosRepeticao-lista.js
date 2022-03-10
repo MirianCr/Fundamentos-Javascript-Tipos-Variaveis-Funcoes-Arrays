@@ -3,6 +3,10 @@
 const alunos = ['Joao', 'Juliana', 'Caio', 'Ana']
                              //3
 const mediaDosAlunos = [10,7,9,6];
+
+//indexOf -> 3
+//includes -> booleano
+
                           //0[alunos]  1[10,7,9,6]
 let listaDeNotasEalunos = [alunos,     mediaDosAlunos];
 
@@ -21,6 +25,8 @@ console.log(exibeNomeNota("Juliana"))
 console.log(exibeNomeNota("Nemo"))
 
 //Ana, sua media e 6
+//Juliana, sua media e 7
+//Aluno não esta cadastrado
 
 
 //indexOf siginifica indice de 
