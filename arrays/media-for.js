@@ -20,6 +20,9 @@
 //notas.forEach( nota => {
  //   somaDasNotas += nota
 //})
+//notas1.forEach(function(nota){
+ // somaDasNotas +=nota
+//})
 //let media = somaDasNotas/notas.length;
 //console.log(media)
 
