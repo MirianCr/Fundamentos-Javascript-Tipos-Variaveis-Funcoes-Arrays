@@ -1,20 +1,20 @@
+//adicionar informações importantes que ainda estão faltando como telefone e tambem os seus valores
+
 // const cliente = {
 //     nome:"Andre",
 //     idade:36,
 //     cpf:"12345678955",
 //     email:"andre@gmail.com"
-
 // }
-
 // console.log(cliente);
 
-// cliente.fone = "6199565525"
-
-// console.log(cliente);
+// cliente.fone = "6199565525";
+// console.log(cliente); //ele adiciona o telefone
 
 // cliente.fone="875658422"
+// console.log(cliente); // ele alterou/substituiu o numero do telefone
 
-// console.log(cliente)
+//=================================================================================
 
 const pessoa = {
     nome:"Bruce Banner",

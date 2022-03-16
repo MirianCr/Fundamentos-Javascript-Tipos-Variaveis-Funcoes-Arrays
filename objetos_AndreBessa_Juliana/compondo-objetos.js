@@ -1,11 +1,12 @@
+//compondo um objeto
+//adicionar dependentes para um dos clientes cadastrados, com nome, idade e parentesco
 const cliente = {
     nome:"Andre",
     idade:36,
     cpf:"12345678955",
     email:"andre@gmail.com",
     fones:["559166552", "55642222555"]
-  
-   }
+  }
 
    cliente.dependentes = {
        nome: "Sara",

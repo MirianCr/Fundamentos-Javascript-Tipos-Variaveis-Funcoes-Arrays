@@ -1,0 +1,9 @@
+//arr.__proto__, o que é essa propriedade proto? A propriedade proto ela guarda as definições de todo array que criamos no JavaScript, então o que é esse tal de proto, do prototype, do protótipo, é como se fosse uma base, um modelo, que o JavaScript traz para dentro de tudo que criamos, de todos os dados que criamos, sejam arrays, números, objetos, strings e graças a essa base que ele traz junto, que ele cria junto com as nossas propriedades ou com os nossos arrays, conseguimos ter métodos associados a ele.
+
+// Então lembra que vimos nos vídeos anteriores quando trabalhamos com array conseguimos acessar por exemplo, fazer um map(), ou fazer um forEach(), ou até mesmo acessar length, o tamanho do array, conseguimos utilizar esse métodos graças a *****esse objeto oculto,****** que o JavaScript criar e associa, tudo por baixo dos panos, sem termos que fazer nada.
+
+// E esse objeto oculto ele já traz com eles as próprias funções, ou seja, os próprios métodos, então todos os métodos de array que utilizamos em JavaScript forEach() ,map(), push() para adicionar alguma coisa dentro do array, eles estão aqui dentro dessa propriedade que é o proto que é o protótipo do objeto array.
+
+// Então como sempre costumamos falar todo código executado no computador, executado na internet, ele mora em algum lugar, e conseguimos utilizar os métodos de objetos, métodos de arrays ou por exemplo, os métodos de string ou de número, graças a essas propriedades, esse objeto que traz propriedades com ele e que o JavaScript esconde de nós e nos traz toda vez que criamos um novo objeto, um novo array, ou até mesmo uma nova função.
+
+//esse protótipo pelo que eu estou vendo aqui, permite você trabalhar com herança, com o conceito de herança, você herdar atributos, propriedades, funções a partir do protótipo,

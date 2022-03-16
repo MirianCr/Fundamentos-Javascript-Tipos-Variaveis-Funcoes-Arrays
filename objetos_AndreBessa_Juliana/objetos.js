@@ -1,6 +1,9 @@
 const listaCPFs = ["02556652555" , "12345678956", "12345678965"]
 
+//===========================================================================
 //const cliente = ["nome", "André", "idade", 36]
+//array não nos permite informações desorganizadas que não sao mesmo tipo
+//===========================================================================
 
 const cliente = {
     nome:"Andre",
@@ -10,6 +13,7 @@ const cliente = {
 
 }
 console.log(listaCPFs)
+console.log(cliente)
 
 // todo objeto no JavaScript ele é formado com a chave valor, diferente de um array, que o array você tem lá os elementos do array e você consegue acessar pelo índice.
 
